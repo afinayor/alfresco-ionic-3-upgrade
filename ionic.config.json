@@ -1,0 +1,9 @@
+{
+  "name": "alfresco-app",
+  "app_id": "",
+  "integrations": {
+    "gulp": {}
+  },
+  "type": "ionic-angular",
+  "watchPatterns": []
+}
